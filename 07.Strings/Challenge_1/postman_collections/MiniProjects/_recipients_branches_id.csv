@@ -1,0 +1,4 @@
+id,statusCode,scenario
+b6ed998d-1fac-118b-42a9-c025c1434077,200,successful operation
+random-invalid-uuid-1,400,Bad Request
+random-invalid-uuid-2,401,Authentication Required
