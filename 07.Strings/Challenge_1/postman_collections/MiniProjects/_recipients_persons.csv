@@ -1,0 +1,17 @@
+size,offset,name,birth-date,statusCode,scenario
+20,0,{-'{ -{'{L{p'{'L} . .'L}L--p,1992-11-20,200,successful operation
+45,10,p..-,2018-10-09,200,successful operation
+23,5,'L.p  L.}.p {{.{ .-.',1946-07-07,200,successful operation
+37,22,RandomName,1963-05-01,200,successful operation
+
+size,offset,name,birth-date,statusCode,scenario
+12,3,InvalidName,2023-02-30,400,Bad Request
+34,15,IncorrectData,2050-13-42,400,Bad Request
+7,1,ErrorName,1990-00-00,400,Bad Request
+18,4,RandomName,2023-14-31,400,Bad Request
+
+size,offset,name,birth-date,statusCode,scenario
+9,2,UnauthorizedName,2025-25-61,401,Authentication Required
+28,11,AuthError,2019-02-31,401,Authentication Required
+15,7,InvalidUser,2021-04-31,401,Authentication Required
+4,0,RandomName,2022-13-00,401,Authentication Required

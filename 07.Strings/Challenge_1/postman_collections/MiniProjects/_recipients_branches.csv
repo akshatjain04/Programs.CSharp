@@ -1,0 +1,7 @@
+coc-number,coc-branch-number,trade-name,size,offset,statusCode,scenario
+97051967,953544906089,qui aute exercitation,20,0,200,successful operation
+30618028,138675649417,aliquip adipisicing sed,20,0,200,successful operation
+12345678,123456789012,Invalid Trade Name,25,1,400,Bad Request
+87654321,210987654321,Another Bad Name,30,2,400,Bad Request
+00000000,000000000000,Auth Trade Name,35,3,401,Authentication Required
+99999999,999999999999,Auth Failure Name,40,4,401,Authentication Required

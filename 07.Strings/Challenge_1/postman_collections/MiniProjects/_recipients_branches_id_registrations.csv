@@ -1,0 +1,5 @@
+credential-url,size,offset,id,statusCode,scenario
+SCkMa0M3:6!J3!,20,0,urn:uuid:8fe36606-c50f-17b9-3ea1-85638693e447,200,successful operation
+MA2:aDE,20,0,urn:uuid:da2c666a-8541-6958-120f-ec3ad27f77ec,200,successful operation
+random-invalid-url,45,3,urn:uuid:00000000-0000-0000-0000-000000000000,400,Bad Request
+random-invalid-url,0,100,urn:uuid:11111111-1111-1111-1111-111111111111,401,Authentication Required

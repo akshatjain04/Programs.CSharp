@@ -1,0 +1,4 @@
+id,statusCode,scenario
+urn:uuid:c636119b-f91b-560e-6479-d68e1631e998,200,successful operation
+urn:uuid:a34b23cd-d54f-462f-a118-f9a8e76a2b3c,400,Bad Request
+urn:uuid:3fa85f64-5717-4562-b3fc-2c963f66afa6,401,Authentication Required
