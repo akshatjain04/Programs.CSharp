@@ -1,0 +1,11 @@
+id,credential-url,size,offset,statusCode
+4f3ad3e5-e7ce-4b2f-a9a2-1fd91a7e17bf,/credentials/4f3ad3e5-e7ce-4b2f-a9a2-1fd91a7e17bf,23,0,200
+f8b26c50-3c7e-4517-b7e2-df4b4563c6a0,/credentials/f8b26c50-3c7e-4517-b7e2-df4b4563c6a0,37,1,200
+99a8b8ee-2c3b-4e19-8b3c-7d3c9dc0d52e,/credentials/99a8b8ee-2c3b-4e19-8b3c-7d3c9dc0d52e,15,2,200
+7f623fe2-32b2-4b6b-8bb9-3e8d959b2b80,/credentials/7f623fe2-32b2-4b6b-8bb9-3e8d959b2b80,42,3,200
+e8d3c48f-2076-4c59-ae8e-2f1b5a5e5fb7,/credentials/e8d3c48f-2076-4c59-ae8e-2f1b5a5e5fb7,29,4,200
+c9a45f7b-ec19-4a5b-9256-8e1f5f4c8d9a,/credentials/c9a45f7b-ec19-4a5b-9256-8e1f5f4c8d9a,50,5,200
+1c8f8f2b-2d37-4a4a-9a9e-5a3f2f5e4e80,/credentials/1c8f8f2b-2d37-4a4a-9a9e-5a3f2f5e4e80,33,6,200
+05c61d9b-8f7c-4f1c-9d3d-7ddc4b34f3e4,/credentials/05c61d9b-8f7c-4f1c-9d3d-7ddc4b34f3e4,18,7,200
+b4a5c1db-8d1a-4bc8-9a5d-1e4d9c2c8a11,/credentials/b4a5c1db-8d1a-4bc8-9a5d-1e4d9c2c8a11,27,8,200
+a5d6b7f2-4d88-4bde-92a4-3f23c3d3f1dc,/credentials/a5d6b7f2-4d88-4bde-92a4-3f23c3d3f1dc,8,9,200
